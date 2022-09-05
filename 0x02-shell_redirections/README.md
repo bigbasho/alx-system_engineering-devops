@@ -1,1 +1,1 @@
-Displaying 10 newest file in a directory
+list of words as input and prints only words that appear exactly once.
