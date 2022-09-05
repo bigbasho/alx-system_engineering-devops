@@ -1,1 +1,1 @@
-Display of third charater in the file iacta
+Create a shoool file
