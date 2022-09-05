@@ -1,1 +1,1 @@
-Displatin 10 lines
+Display first 10 lines
