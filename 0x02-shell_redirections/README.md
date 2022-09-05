@@ -1,1 +1,1 @@
-Writing a script into a file, if not available create it
+Dulicate the last line of iacta
