@@ -1,1 +1,1 @@
-Display first 10 lines
+Display of third charater in the file iacta
